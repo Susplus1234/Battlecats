@@ -12,14 +12,14 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://www.dropbox.com/scl/fi/hmqbu6ir4qefdrj2se3nn/The-Battle-Cats_15.4.1_1784171471.ipa?rlkey=6csavwoq2nkwhdw2dgfdfk9ol&amp;st=m91azgsm&amp;dl=1</string>
+          <string>https://www.dropbox.com/scl/fi/e0ve6jd4x6lqag8ib943m/The-Battle-Cats_15.4.1_1784198414.ipa?rlkey=hcjk0atrmry81hxextunyz0i6&amp;st=basbou3z&amp;dl=1</string>
         </dict>
       </array>
 
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>jp.co.ponos.battlecatsens</string>
+        <string>app.cauliflower3903.lemon2546</string>
 
         <key>bundle-version</key>
         <string>15.4.1</string>
